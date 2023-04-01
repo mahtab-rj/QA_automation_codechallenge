@@ -43,4 +43,4 @@ class TextBoxTests(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output='example_dir'))
+    unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output='Report'))
